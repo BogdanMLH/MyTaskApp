@@ -5,9 +5,9 @@ import java.sql.*;
 
 public class Main {
 
-    public static String url = "jdbc:mysql://localhost:3306/tasks";
+    public static String url = "jdbc:mysql://localhost:****/tasks";
     public static String username = "root";
-    public static String password = "Vsedw2009*";
+    public static String password = "*******";
     public static Connection connection;
 
     public static void main(String[] args) throws SQLException, IOException {
